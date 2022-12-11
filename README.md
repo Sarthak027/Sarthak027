@@ -1,3 +1,4 @@
+![logo](https://github.com/Sarthak027/Sarthak027/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Sarthak Parida</h1>
 <h3 align="center">I'm self a driven and motivated student with a passion for DevOps..</h3>
  
