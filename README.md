@@ -12,6 +12,13 @@
 
 - 📫 How to reach me **sarthakparida147@gmail.com**
 
+<h1>BADGE</h1>
+<h2>LINUX</h2>
+<a href="https://www.credly.com/badges/22953ff4-bd4f-4ca8-927d-94d110a0ca69/public_url"><img src="https://github.com/Sarthak027/Sarthak027/blob/main/badge/lfd103-a-beginner-s-guide-to-linux-kernel-development.png"></a>
+
+<h2>CLOUD<h2>
+<a herf="https://www.credly.com/badges/14cf4588-5dba-4f44-8334-e0179eaf2802/public_url"><img src="https://github.com/Sarthak027/Sarthak027/blob/main/badge/microsoft-certified-azure-fundamentals.png"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarthakparida10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakparida10" height="30" width="40" /></a>
