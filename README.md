@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sarthak027/Sarthak027/blob/main/ezgif.com-gif-maker.gif)
-<h1 align="center">Hi 👋, I'm Sarthak Parida</h1>
-<h3 align="center">I'm self a driven and motivated student with a passion for Devops..</h3>
+<h1 align="center">Hi 👋, I'm Sarthak </h1>
+<h3 align="center">I'm  a Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak027&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak027" /> </p>
 
