@@ -1,4 +1,4 @@
-![logo](https://github.com/Sarthak027/Sarthak027/blob/main/Black Modern Personal LinkedIn Banner.png)
+![logo](https://github.com/Sarthak027/Sarthak027/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sarthak </h1>
 
