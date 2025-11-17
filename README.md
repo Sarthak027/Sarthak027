@@ -1,6 +1,11 @@
-![logo](https://github.com/Sarthak027/Sarthak027/blob/main/banner.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Sarthak </h1>
+<p align="center">
+  <img src="ironman-mask-on.gif" alt="Iron Man Mask" width="100%" />
+</p>
+
 
 
 # 💫 About Me:
