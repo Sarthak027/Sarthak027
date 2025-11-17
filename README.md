@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=%F0%9F%91%8B%20I'm%20Sarthak&fontAlign=50&fontColor=ffffff&fontSize=60&section=header" />
 </p>
+
+<p align="center">
+  <b><code>&gt; echo "@that_cloud_guy"</code></b>
+</p>
+
 
 <p align="center">
   <img src="ironman-mask-on.gif" alt="Iron Man Mask" width="100%" />
@@ -77,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="50"/>
+ 
 </p>
 
 ## ☁️ Cloud & Serverless
